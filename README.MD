@@ -30,7 +30,7 @@ Este proyecto es el frontend de una aplicación MERN (MongoDB, Express, React, N
 - **Tailwind CSS:** Para estilizar los componentes con un enfoque moderno y responsivo.
 - **Notistack:** Para gestionar notificaciones.
 
-## Instalation
+## Instalacion
 
 #### Requisitos previos
 - Node.js instalado (versión 14 o superior).
